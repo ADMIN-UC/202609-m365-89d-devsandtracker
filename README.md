@@ -81,4 +81,20 @@ Focused on:
 
 ## 📌 Purpose
 
+- Maintain consistent and intentional Microsoft 365 Developer Sandbox activities throughout the full 89-day renewal cycle
+
+- Document UC Day execution, learning activities, technology exploration, and sandbox engagement in a structured and measurable format
+
+- Establish an alternative activity tracking approach that does not depend on SharePoint or OneDrive availability
+
+- Strengthen documentation practices, knowledge management, and long-term learning continuity through GitHub-based records
+
+- Support continuous sandbox renewal readiness through active participation, repository maintenance, technical experimentation, and documented progress
+
+- Preserve a historical record of activities, observations, lessons learned, and development milestones throughout the current renewal cycle
+
+- Encourage continuous improvement through planning, review, evaluation, refinement, and ongoing learning initiatives
+
+- Maintain alignment with Microsoft 365 technologies while developing sustainable habits for long-term platform engagement and future sandbox cycles
+
 ---
