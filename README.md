@@ -33,7 +33,7 @@ https://github.com/uc-rojean
 
 ### 📁 Final Repository from the Previous 89-Day Cycle
 
-[m365-dev-activities-89d-2026-08](https://github.com/uc-rojean/m365-dev-activities-represents the final documented chapter of the previous Microsoft 365 Developer Sandbox cycle before environment transition activities and long-term restructuring efforts.
+(https://github.com/uc-rojean/m365-dev-activities-89d-2026-08) represents the final documented chapter of the previous Microsoft 365 Developer Sandbox cycle before environment transition activities and long-term restructuring efforts.
 
 ---
 
