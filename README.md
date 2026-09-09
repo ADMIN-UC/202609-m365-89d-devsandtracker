@@ -1,2 +1,84 @@
-# 202609-m365-devsandtracker
-Repository for documenting daily Microsoft 365 Developer Sandbox activities, GitHub contributions, learning progress, and renewal-focused experiments without relying on SharePoint or OneDrive.
+# 202609-m365-89d-devsandtracker
+
+🧪 Microsoft 365 Developer Sandbox Activity Tracker
+
+September 2026 • 89-Day Renewable E5 Sandbox Cycle
+
+This repository marks the continuation of the Microsoft 365 Developer Sandbox learning journey following the transition from a previous sandbox environment and GitHub account.
+
+The previous sandbox cycle concluded with documented activities maintained in a separate GitHub repository. As part of environment transition and tenant separation efforts, commercial business initiatives will continue within a dedicated production tenant while this Microsoft 365 Developer Sandbox remains focused on learning, experimentation, documentation, and renewal-supporting activities.
+
+This repository serves as the primary activity log throughout the current 89-day Microsoft 365 Developer Sandbox renewal cycle.
+
+---
+
+## 🎯 Objectives
+
+- 📝 Document daily UC Day activities
+- 🚀 Maintain consistent Microsoft 365 Developer Sandbox engagement
+- 🐙 Track GitHub learning contributions
+- 📚 Maintain technical documentation and knowledge development
+- ⚙️ Explore Microsoft 365 services and platform capabilities
+- 🔄 Support continuous renewal readiness through active participation and documented activity
+
+---
+
+## 📜 Previous Sandbox Cycle
+
+This repository continues activities previously documented within the former sandbox environment.
+
+### 🔗 Previous GitHub Account
+
+https://github.com/uc-rojean
+
+### 📁 Final Repository from the Previous 89-Day Cycle
+
+[m365-dev-activities-89d-2026-08](https://github.com/uc-rojean/m365-dev-activities-represents the final documented chapter of the previous Microsoft 365 Developer Sandbox cycle before environment transition activities and long-term restructuring efforts.
+
+---
+
+## 🏢 Environment Strategy
+
+### 💼 Commercial Tenant
+
+Focused on:
+
+- Business operations
+- Customer-facing services
+- Production workloads
+- Business growth initiatives
+
+### 🧪 Developer Sandbox
+
+Focused on:
+
+- Daily learning activities
+- Technical experimentation
+- Documentation and knowledge development
+- Microsoft 365 exploration
+- GitHub contribution tracking
+- Continuous renewal activities
+
+---
+
+## 📅 Current Renewal Cycle
+
+**Cycle Type:** Microsoft 365 Developer Program E5 Sandbox
+
+**Duration:** 89 Days
+
+**Repository Start:** September 2026
+
+**Tracking Method:** Daily UC Day Activity Logs
+
+**Primary Goal:** Maintain consistent and measurable development activities throughout the full 89-day renewal period.
+
+> 🌱 Every expert was once a beginner.
+>
+> 🚀 Consistency creates progress.
+
+---
+
+## 📌 Purpose
+
+---
