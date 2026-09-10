@@ -139,3 +139,53 @@ Due to the transition of the previous environment and the separation between com
 ✅ Learning activities ongoing
 
 ---
+
+
+
+## 📅 UC Day Log (Rolling Summary)
+
+- UC Day 01 – September 09, 2026 19:35 GMT+8 – Status: In Progress
+
+- UC Day 02 – September 10, 2026 16:35 GMT+8 – Status: In Progress
+
+---
+
+
+### UC Day 02 – 72 Days Remaining (September 10, 2026, Thursday)
+
+- **Planned Date:** September 10, 2026 (72 days remaining)
+- **Actual Run:** September 10, 2026 16:35 GMT+8
+- **Status:** In Progress
+
+#### Summary
+
+UC Day 02 focused on maintaining continuous Microsoft 365 Developer Sandbox engagement through repository management, documentation activities, sandbox status validation, and technology learning initiatives.
+
+#### Activities Completed
+
+- Reviewed current sandbox status
+- Validated GitHub repository structure
+- Continued documentation development
+- Maintained UC Day tracking process
+- Performed Microsoft 365 administrative review
+- Conducted learning and research activities
+
+#### Notes
+
+SharePoint and OneDrive services remain unavailable within the current environment. Documentation and activity tracking continue through GitHub-based workflows to maintain consistency throughout the current 89-day renewal cycle.
+
+#### Outcome
+
+✅ Sandbox activity maintained
+
+✅ GitHub documentation updated
+
+✅ Learning activities completed
+
+✅ Renewal cycle tracking continued
+
+✅ UC Day 02 successfully recorded
+
+---
+
+---
