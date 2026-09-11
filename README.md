@@ -161,6 +161,8 @@ Due to the transition of the previous environment and the separation between com
 
 - UC Day 02 – September 10, 2026 16:35 GMT+8 – Status: In Progress
 
+- UC Day 03 – September 11, 2026 18:37 GMT+8 – Status: In Progress
+
 ---
 
 
