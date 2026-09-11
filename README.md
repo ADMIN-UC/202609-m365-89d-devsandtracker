@@ -79,6 +79,19 @@ Focused on:
 
 ---
 
+## 📆 Activity Schedule
+
+Development activities are generally conducted during working days.
+
+- ✅ Monday to Friday – Active UC Day Activities
+- ⏸ Saturday – No Scheduled Activities
+- ⏸ Sunday – No Scheduled Activities
+- ⏸ Recognized Holidays – No Scheduled Activities
+
+When activities cannot be conducted due to real-life obligations, documentation updates may be completed on a later date while preserving the original UC Day schedule and historical timeline.
+
+---
+
 ## 📌 Purpose
 
 - Maintain consistent and intentional Microsoft 365 Developer Sandbox activities throughout the full 89-day renewal cycle
