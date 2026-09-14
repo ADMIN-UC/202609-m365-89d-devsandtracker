@@ -163,6 +163,12 @@ Due to the transition of the previous environment and the separation between com
 
 - UC Day 03 – September 11, 2026 18:37 GMT+8 – Status: In Progress
 
+- 70 Days Remaining (September 12, 2026, Saturday) – No Activities
+
+- 69 Days Remaining (September 13, 2026, Sunday) – No Activities
+
+- UC Day 04 – September 14, 2026 18:54 GMT+8 – Status: In Progress
+
 ---
 
 
