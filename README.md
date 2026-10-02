@@ -113,6 +113,59 @@ When activities cannot be conducted due to real-life obligations, documentation 
 ---
 
 
+## 📅 UC Day Log (Rolling Summary)
+
+- UC Day 01 – September 09, 2026 19:35 GMT+8 – Status: In Progress
+
+- UC Day 02 – September 10, 2026 16:35 GMT+8 – Status: In Progress
+
+- UC Day 03 – September 11, 2026 18:37 GMT+8 – Status: In Progress
+
+- 70 Days Remaining (September 12, 2026, Saturday) – No Activities
+
+- 69 Days Remaining (September 13, 2026, Sunday) – No Activities
+
+- UC Day 04 – September 14, 2026 18:54 GMT+8 – Status: In Progress
+
+- UC Day 05 – September 15, 2026 19:47 GMT+8 – Status: No Activities
+
+- UC Day 06 – September 16, 2026 17:12 GMT+8 – Status: In Progress
+
+- UC Day 07 – September 17, 2026 19:01 GMT+8 – Status: No Activities
+
+- UC Day 08 – September 18, 2026 07:09 GMT+8 – Status: No Activities
+
+- 63 Days Remaining (September 19, 2026, Saturday) – No Activities
+
+- 62 Days Remaining (September 20, 2026, Sunday) – No Activities
+ 
+- UC Day 09 – September 21, 2026 19:55 GMT+8 – Status: No Activities
+
+- UC Day 10 – September 22, 2026 20:25 GMT+8 – Status: No Activities
+
+- UC Day 11 – September 24, 2026 19:04 GMT+8 – Status: No Activities
+
+- UC Day 12 – September 24, 2026 19:10 GMT+8 – Status: In Progress
+
+- UC Day 13 – September 25, 2026 17:20 GMT+8 – Status: In Progress
+
+- 56 Days Remaining (September 26, 2026, Saturday) – No Activities
+
+- 55 Days Remaining (September 27, 2026, Sunday) – No Activities
+
+- UC Day 14 – September 28, 2026 – Status: No Activities
+
+- UC Day 15 – September 29, 2026 – Status: No Activities
+
+- UC Day 16 – September 30, 2026 – Status: No Activities
+
+- UC Day 17 – October 01, 2026 – Status: No Activities
+
+- UC Day 18 – October 02, 2026 18:38 GMT+8 – Status: Documentation Update Only
+
+---
+
+
 ### UC Day 01 – 73 Days Remaining (September 09, 2026, Wednesday)
 
 - **Planned Date:** September 09, 2026 (73 days remaining)
@@ -150,46 +203,6 @@ Due to the transition of the previous environment and the separation between com
 ✅ UC Day tracking process defined
 
 ✅ Learning activities ongoing
-
----
-
-
-
-## 📅 UC Day Log (Rolling Summary)
-
-- UC Day 01 – September 09, 2026 19:35 GMT+8 – Status: In Progress
-
-- UC Day 02 – September 10, 2026 16:35 GMT+8 – Status: In Progress
-
-- UC Day 03 – September 11, 2026 18:37 GMT+8 – Status: In Progress
-
-- 70 Days Remaining (September 12, 2026, Saturday) – No Activities
-
-- 69 Days Remaining (September 13, 2026, Sunday) – No Activities
-
-- UC Day 04 – September 14, 2026 18:54 GMT+8 – Status: In Progress
-
-- UC Day 05 – September 15, 2026 19:47 GMT+8 – Status: No Activities
-
-- UC Day 06 – September 16, 2026 17:12 GMT+8 – Status: In Progress
-
-- UC Day 07 – September 17, 2026 19:01 GMT+8 – Status: No Activities
-
-- UC Day 08 – September 18, 2026 07:09 GMT+8 – Status: No Activities
-
-- 63 Days Remaining (September 19, 2026, Saturday) – No Activities
-
-- 62 Days Remaining (September 20, 2026, Sunday) – No Activities
- 
-- UC Day 09 – September 21, 2026 19:55 GMT+8 – Status: No Activities
-
-- UC Day 10 – September 22, 2026 20:25 GMT+8 – Status: No Activities
-
-- UC Day 11 – September 24, 2026 19:04 GMT+8 – Status: No Activities
-
-- UC Day 12 – September 24, 2026 19:10 GMT+8 – Status: In Progress
-
-- UC Day 13 – September 25, 2026 17:20 GMT+8 – Status: In Progress
 
 ---
 
