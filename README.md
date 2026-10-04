@@ -153,15 +153,21 @@ When activities cannot be conducted due to real-life obligations, documentation 
 
 - 55 Days Remaining (September 27, 2026, Sunday) – No Activities
 
-- UC Day 14 – September 28, 2026 – Status: No Activities
+- 54 Days Remaining (September 28, 2026, Monday) – No Activities
 
-- UC Day 15 – September 29, 2026 – Status: No Activities
+- 53 Days Remaining (September 29, 2026, Tuesday) – No Activities
 
-- UC Day 16 – September 30, 2026 – Status: No Activities
+- 52 Days Remaining (September 30, 2026, Wednesday) – No Activities
 
-- UC Day 17 – October 01, 2026 – Status: No Activities
+- 51 Days Remaining (October 01, 2026, Thursday) – No Activities
 
-- UC Day 18 – October 02, 2026 18:38 GMT+8 – Status: Documentation Update Only
+- UC Day 14 – October 02, 2026 18:38 GMT+8 – Status: Documentation Update Only
+
+- 49 Days Remaining (October 03, 2026, Saturday) – No Activities
+
+- 48 Days Remaining (October 04, 2026, Sunday) – No Activities
+
+- UC Day 15 – October 05, 2026 07:37 GMT+8 – Status: In Progress
 
 ---
 
