@@ -171,6 +171,12 @@ When activities cannot be conducted due to real-life obligations, documentation 
 
 - UC Day 16 – October 06, 2026 16:16 GMT+8 – Status: In Progress
 
+- 45 Days Remaining (October 07, 2026, Wednesday) – No Activities
+
+- 44 Days Remaining (October 08, 2026, Thursday) – No Activities
+
+- UC Day 17 – October 09, 2026 23:23 GMT+8 – Status: In Progress
+
 ---
 
 
